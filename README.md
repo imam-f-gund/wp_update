@@ -1,8 +1,13 @@
+<<<<<<< HEAD
  
 ## first commit wp," "# wp_update"
 ## SPK Metode WP Bantuan 
 
-## Bobot Kepentingan
-<p align="center"><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/imam-f-gund/paud/master/ss/login.png" width="400"></a></p>
 
+
+=======
+"# Sistem Prediksi bantuan dengan metode WP" 
+"# first commit wp," "# wp_update"
+"# tess"
+>>>>>>> 0114900456fe9276df6c489cc62f0966277716a3
  
